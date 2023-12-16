@@ -1,0 +1,27 @@
+#title_layout {
+    margin-top: 75px;
+    height: 75px;
+    font-size: 200%;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
+
+#video_layout {
+    display: flex;
+    justify-content: center;
+}
+
+#bar_layout {
+  margin-top: 25px;
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+#button_layout {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 15px;
+}

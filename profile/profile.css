@@ -1,0 +1,44 @@
+#title_layout {
+    margin-top: 75px;
+    height: 75px;
+    font-size: 200%;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
+
+#img_layout {
+    float: left;
+    width : 40%;
+    height : 450px;
+}
+
+.card-body 
+{
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    box-shadow: 5px 5px 5px gainsboro;
+    float: left;
+    margin-left: 40%;
+    width: auto;
+    height: 450px;
+    
+}
+
+#text_layout {
+    float: left;
+    width : 60%;
+    height : 450px;
+    display: flex;
+    align-items: center;
+}
+
+.profile_text {
+    font-size: 175%;
+    line-height: 400%;
+}

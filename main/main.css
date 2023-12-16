@@ -1,0 +1,21 @@
+#title_layout {
+    margin-top: 75px;
+    height: 75px;
+    font-size: 200%;
+    text-align: center;
+}
+
+body {
+    margin: 0;
+}
+
+#carouselExampleDark {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+#main_button {
+  margin-top: 25px;
+  display: flex;
+  justify-content: center;
+}
